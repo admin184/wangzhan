@@ -91,10 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <i class="bi bi-box-arrow-in-right me-1"></i>登录
                     </button>
                 </form>
-
-                <p class="text-center text-muted small mt-3 mb-0">
-                    测试账号：admin / 张三 / 李四，密码均为 123456
-                </p>
+              
             </div>
         </div>
     </div>

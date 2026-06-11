@@ -7,8 +7,8 @@
 $db_host = '127.0.0.1';
 $db_port = 3306;
 $db_name = 'wangzhan';
-$db_user = 'root';
-$db_pass = '';
+$db_user = 'user1';
+$db_pass = '123456';
 
 try {
     $pdo = new PDO(
